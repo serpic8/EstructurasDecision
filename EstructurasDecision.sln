@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PjControlRegistroEstacionamiento", "PjControlRegistroEstacionamiento\PjControlRegistroEstacionamiento.csproj", "{3DBD24BC-45C5-44FB-A427-680C4554FCBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DBD24BC-45C5-44FB-A427-680C4554FCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DBD24BC-45C5-44FB-A427-680C4554FCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DBD24BC-45C5-44FB-A427-680C4554FCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DBD24BC-45C5-44FB-A427-680C4554FCBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16DA27C9-FD8C-42D4-B872-7B990FD1D3D0}
+	EndGlobalSection
+EndGlobal
